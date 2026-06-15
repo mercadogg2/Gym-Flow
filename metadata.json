@@ -1,0 +1,6 @@
+{
+  "name": "GymFlow",
+  "description": "SaaS premium de gestão e captação para academias e studios fitness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
